@@ -18,6 +18,6 @@ A lightweight and efficient **Huffman coding-based file compressor and decompres
 1. Build:
 ```bash
 g++ -std=c++17 -O2 -o huffman main.cpp
-2. RUN:
+//run
 ./huffman
 

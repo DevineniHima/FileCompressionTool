@@ -1,4 +1,4 @@
-# Enhanced Huffman Compression Tool v2.1
+# Enhanced Huffman Compression Tool 
 
 A lightweight and efficient **Huffman coding-based file compressor and decompressor** written in modern **C++17**.
 
@@ -13,11 +13,16 @@ A lightweight and efficient **Huffman coding-based file compressor and decompres
 
 ---
 
- ### Usage
+## ⚙️ Usage
 
-1. Build:
-```bash
+###  Build the program
+ ```bash
 g++ -std=c++17 -O2 -o huffman main.cpp
-//run
-./huffman
+```
+
+### Run
+ ```bash
+ ./huffman
+```
+
 
